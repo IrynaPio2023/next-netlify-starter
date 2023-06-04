@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Date of daily" />
+        <Header title="Date of daily!!!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Bla-bla-bla <code>pages/index.js</code>
         </p>
  
       </main>
